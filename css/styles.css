@@ -1,0 +1,47 @@
+h1 {
+    text-align: center;
+    font-size: larger 75%;
+    font-weight: bold;
+    color: black;
+    padding-top: 25px;
+}
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+#dummy {
+    background-color: gray;
+    color: black;
+    border: 2px black solid;
+    position: relative;
+    padding: 15px;
+    width: 350px;
+    height: 130px;
+    
+}
+span {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 70px;
+    text-align: center;
+}
+#chicken {
+    background-color: palevioletred;
+    color: black;
+    border: 1px black solid;
+}
+#beaf {
+    background-color: rgb(184, 82, 82);
+    color: #fff;
+    border: 1px black solid;
+}
+#suchi {
+    background-color: yellow;
+    color: black;
+    border: 1px black solid;
+}
+section {
+    padding-bottom: 20px;
+}
